@@ -1,1 +1,1 @@
-# Python Tutorial for beginners
+# Complete python tutorials for beginners
